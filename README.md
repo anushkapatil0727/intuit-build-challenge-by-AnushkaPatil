@@ -92,7 +92,7 @@ Destination container size: 100
 Performs comprehensive data analysis on CSV sales data using functional programming paradigms including lambda expressions, map/filter operations, and grouping. Analyzes sales transactions across multiple dimensions.
 
 ### Dataset
-The `sample_sales.csv` contains 1000 sales transactions with the following fields:
+The `sample_sales.csv` contains 350 sales transactions with the following fields:
 - **transaction_id**: Unique identifier
 - **date**: Transaction date (YYYY-MM-DD)
 - **product**: Product name
