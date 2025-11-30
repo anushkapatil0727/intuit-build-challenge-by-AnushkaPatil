@@ -197,9 +197,7 @@ pytest --cov=assignment1 --cov=assignment2 --cov-report=term-missing
 
 Round 4 - Build Challenge Submission for Intuit by Anushka Patil
 Role - Software Engineer 1
-```
 
----
 
 ## requirements.txt
 ```
