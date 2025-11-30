@@ -1,0 +1,351 @@
+transaction_id,date,product,category,region,quantity,unit_price,total_sales
+1,2024-01-15,Laptop,Electronics,North,2,1200.00,2400.00
+2,2024-01-16,T-Shirt,Clothing,South,5,25.00,125.00
+3,2024-01-17,Coffee Maker,Home & Garden,East,1,89.99,89.99
+4,2024-01-18,Smartphone,Electronics,West,3,800.00,2400.00
+5,2024-01-19,Jeans,Clothing,North,4,60.00,240.00
+6,2024-01-20,Blender,Home & Garden,South,2,45.50,91.00
+7,2024-01-21,Tablet,Electronics,East,1,500.00,500.00
+8,2024-01-22,Jacket,Clothing,West,3,120.00,360.00
+9,2024-01-23,Lamp,Home & Garden,North,6,35.00,210.00
+10,2024-01-24,Headphones,Electronics,South,4,150.00,600.00
+11,2024-01-25,Sneakers,Clothing,East,2,85.00,170.00
+12,2024-01-26,Toaster,Home & Garden,West,3,40.00,120.00
+13,2024-01-27,Monitor,Electronics,North,1,350.00,350.00
+14,2024-01-28,Dress,Clothing,South,2,75.00,150.00
+15,2024-01-29,Vacuum,Home & Garden,East,1,200.00,200.00
+16,2024-01-30,Camera,Electronics,West,2,600.00,1200.00
+17,2024-02-01,Hoodie,Clothing,North,5,55.00,275.00
+18,2024-02-02,Chair,Home & Garden,South,3,150.00,450.00
+19,2024-02-03,Keyboard,Electronics,East,4,80.00,320.00
+20,2024-02-04,Socks,Clothing,West,10,8.00,80.00
+21,2024-02-05,Desk,Home & Garden,North,1,300.00,300.00
+22,2024-02-06,Mouse,Electronics,South,5,30.00,150.00
+23,2024-02-07,Scarf,Clothing,East,3,22.00,66.00
+24,2024-02-08,Pillow,Home & Garden,West,4,25.00,100.00
+25,2024-02-09,Speaker,Electronics,North,2,180.00,360.00
+26,2024-02-10,Belt,Clothing,South,6,18.00,108.00
+27,2024-02-11,Microwave,Home & Garden,East,1,120.00,120.00
+28,2024-02-12,Laptop,Electronics,West,1,1200.00,1200.00
+29,2024-02-13,Sweater,Clothing,North,3,65.00,195.00
+30,2024-02-14,Rug,Home & Garden,South,2,90.00,180.00
+31,2024-02-15,Smartphone,Electronics,East,2,800.00,1600.00
+32,2024-02-16,Shorts,Clothing,West,4,35.00,140.00
+33,2024-02-17,Fan,Home & Garden,North,3,50.00,150.00
+34,2024-02-18,Tablet,Electronics,South,1,500.00,500.00
+35,2024-02-19,Gloves,Clothing,East,8,15.00,120.00
+36,2024-02-20,Bookshelf,Home & Garden,West,1,180.00,180.00
+37,2024-02-21,Webcam,Electronics,North,3,75.00,225.00
+38,2024-02-22,Shirt,Clothing,South,5,40.00,200.00
+39,2024-02-23,Coffee Table,Home & Garden,East,1,220.00,220.00
+40,2024-02-24,Printer,Electronics,West,1,250.00,250.00
+41,2024-02-25,Boots,Clothing,North,2,110.00,220.00
+42,2024-02-26,Plant Pot,Home & Garden,South,6,12.00,72.00
+43,2024-02-27,Hard Drive,Electronics,East,4,100.00,400.00
+44,2024-02-28,Cap,Clothing,West,7,20.00,140.00
+45,2024-03-01,Sofa,Home & Garden,North,1,850.00,850.00
+46,2024-03-02,Smart Watch,Electronics,South,2,300.00,600.00
+47,2024-03-03,Leggings,Clothing,East,5,30.00,150.00
+48,2024-03-04,Curtains,Home & Garden,West,3,45.00,135.00
+49,2024-03-05,Router,Electronics,North,2,90.00,180.00
+50,2024-03-06,Pajamas,Clothing,South,4,35.00,140.00
+51,2024-03-07,Mirror,Home & Garden,East,2,75.00,150.00
+52,2024-03-08,USB Cable,Electronics,West,10,8.00,80.00
+53,2024-03-09,Backpack,Clothing,North,3,50.00,150.00
+54,2024-03-10,Dining Table,Home & Garden,South,1,600.00,600.00
+55,2024-03-11,Graphics Card,Electronics,East,1,450.00,450.00
+56,2024-03-12,Sunglasses,Clothing,West,4,40.00,160.00
+57,2024-03-13,Towel Set,Home & Garden,North,2,30.00,60.00
+58,2024-03-14,Power Bank,Electronics,South,5,35.00,175.00
+59,2024-03-15,Swimsuit,Clothing,East,3,45.00,135.00
+60,2024-03-16,Clock,Home & Garden,West,4,28.00,112.00
+61,2024-03-17,Laptop,Electronics,North,1,1200.00,1200.00
+62,2024-03-18,Cardigan,Clothing,South,3,55.00,165.00
+63,2024-03-19,Bed Frame,Home & Garden,East,1,400.00,400.00
+64,2024-03-20,Smartphone,Electronics,West,2,800.00,1600.00
+65,2024-03-21,Tie,Clothing,North,6,25.00,150.00
+66,2024-03-22,Trash Can,Home & Garden,South,5,18.00,90.00
+67,2024-03-23,SSD,Electronics,East,3,120.00,360.00
+68,2024-03-24,Raincoat,Clothing,West,2,70.00,140.00
+69,2024-03-25,Mattress,Home & Garden,North,1,700.00,700.00
+70,2024-03-26,Earbuds,Electronics,South,6,50.00,300.00
+71,2024-03-27,Skirt,Clothing,East,4,38.00,152.00
+72,2024-03-28,Nightstand,Home & Garden,West,2,95.00,190.00
+73,2024-03-29,Monitor,Electronics,North,2,350.00,700.00
+74,2024-03-30,Blazer,Clothing,South,2,95.00,190.00
+75,2024-03-31,Iron,Home & Garden,East,3,32.00,96.00
+76,2024-04-01,Camera,Electronics,West,1,600.00,600.00
+77,2024-04-02,Polo Shirt,Clothing,North,5,42.00,210.00
+78,2024-04-03,Dresser,Home & Garden,South,1,450.00,450.00
+79,2024-04-04,Game Console,Electronics,East,1,400.00,400.00
+80,2024-04-05,Sandals,Clothing,West,6,28.00,168.00
+81,2024-04-06,Candles,Home & Garden,North,8,10.00,80.00
+82,2024-04-07,Tablet,Electronics,South,2,500.00,1000.00
+83,2024-04-08,Tank Top,Clothing,East,7,18.00,126.00
+84,2024-04-09,Storage Box,Home & Garden,West,4,22.00,88.00
+85,2024-04-10,Keyboard,Electronics,North,3,80.00,240.00
+86,2024-04-11,Mittens,Clothing,South,5,12.00,60.00
+87,2024-04-12,Hamper,Home & Garden,East,2,35.00,70.00
+88,2024-04-13,Mouse,Electronics,West,4,30.00,120.00
+89,2024-04-14,Handbag,Clothing,North,2,85.00,170.00
+90,2024-04-15,Picture Frame,Home & Garden,South,6,15.00,90.00
+91,2024-04-16,Laptop,Electronics,East,1,1200.00,1200.00
+92,2024-04-17,Vest,Clothing,West,3,48.00,144.00
+93,2024-04-18,Ottoman,Home & Garden,North,2,120.00,240.00
+94,2024-04-19,Smartphone,Electronics,South,1,800.00,800.00
+95,2024-04-20,Slippers,Clothing,East,8,15.00,120.00
+96,2024-04-21,Coat Rack,Home & Garden,West,3,40.00,120.00
+97,2024-04-22,Headphones,Electronics,North,2,150.00,300.00
+98,2024-04-23,Wallet,Clothing,South,5,32.00,160.00
+99,2024-04-24,Bin,Home & Garden,East,4,20.00,80.00
+100,2024-04-25,Flash Drive,Electronics,West,10,12.00,120.00
+101,2024-04-26,Overalls,Clothing,North,2,58.00,116.00
+102,2024-04-27,Shelf,Home & Garden,South,2,75.00,150.00
+103,2024-04-28,Speaker,Electronics,East,1,180.00,180.00
+104,2024-04-29,Scarf,Clothing,West,4,22.00,88.00
+105,2024-04-30,Basket,Home & Garden,North,5,18.00,90.00
+106,2024-05-01,Printer,Electronics,South,1,250.00,250.00
+107,2024-05-02,Joggers,Clothing,East,4,40.00,160.00
+108,2024-05-03,TV Stand,Home & Garden,West,1,180.00,180.00
+109,2024-05-04,Smart Watch,Electronics,North,1,300.00,300.00
+110,2024-05-05,Romper,Clothing,South,3,35.00,105.00
+111,2024-05-06,Vase,Home & Garden,East,4,25.00,100.00
+112,2024-05-07,Router,Electronics,West,2,90.00,180.00
+113,2024-05-08,Turtleneck,Clothing,North,3,48.00,144.00
+114,2024-05-09,Bench,Home & Garden,South,2,95.00,190.00
+115,2024-05-10,Camera,Electronics,East,1,600.00,600.00
+116,2024-05-11,Kimono,Clothing,West,2,68.00,136.00
+117,2024-05-12,Lamp,Home & Garden,North,3,35.00,105.00
+118,2024-05-13,Monitor,Electronics,South,1,350.00,350.00
+119,2024-05-14,Jumpsuit,Clothing,East,2,55.00,110.00
+120,2024-05-15,Throw Blanket,Home & Garden,West,4,30.00,120.00
+121,2024-05-16,Laptop,Electronics,North,2,1200.00,2400.00
+122,2024-05-17,Cardigan,Clothing,South,3,55.00,165.00
+123,2024-05-18,Step Stool,Home & Garden,East,2,28.00,56.00
+124,2024-05-19,Smartphone,Electronics,West,1,800.00,800.00
+125,2024-05-20,Shawl,Clothing,North,4,32.00,128.00
+126,2024-05-21,Floor Mat,Home & Garden,South,5,20.00,100.00
+127,2024-05-22,Headphones,Electronics,East,3,150.00,450.00
+128,2024-05-23,Poncho,Clothing,West,2,45.00,90.00
+129,2024-05-24,Wall Art,Home & Garden,North,3,60.00,180.00
+130,2024-05-25,Tablet,Electronics,South,1,500.00,500.00
+131,2024-05-26,Bralette,Clothing,East,6,22.00,132.00
+132,2024-05-27,Organizer,Home & Garden,West,4,18.00,72.00
+133,2024-05-28,Keyboard,Electronics,North,2,80.00,160.00
+134,2024-05-29,Trench Coat,Clothing,South,1,135.00,135.00
+135,2024-05-30,Stool,Home & Garden,East,3,45.00,135.00
+136,2024-05-31,Mouse,Electronics,West,5,30.00,150.00
+137,2024-06-01,Bodysuit,Clothing,North,4,28.00,112.00
+138,2024-06-02,Side Table,Home & Garden,South,2,85.00,170.00
+139,2024-06-03,SSD,Electronics,East,2,120.00,240.00
+140,2024-06-04,Crop Top,Clothing,West,5,20.00,100.00
+141,2024-06-05,Hammock,Home & Garden,North,1,75.00,75.00
+142,2024-06-06,Webcam,Electronics,South,3,75.00,225.00
+143,2024-06-07,Camisole,Clothing,East,6,18.00,108.00
+144,2024-06-08,Door Mat,Home & Garden,West,4,15.00,60.00
+145,2024-06-09,Power Bank,Electronics,North,5,35.00,175.00
+146,2024-06-10,Parka,Clothing,South,2,98.00,196.00
+147,2024-06-11,Wastebasket,Home & Garden,East,5,12.00,60.00
+148,2024-06-12,Game Console,Electronics,West,1,400.00,400.00
+149,2024-06-13,Tunic,Clothing,North,3,42.00,126.00
+150,2024-06-14,Recliner,Home & Garden,South,1,550.00,550.00
+151,2024-06-15,Laptop,Electronics,East,1,1200.00,1200.00
+152,2024-06-16,Windbreaker,Clothing,West,3,52.00,156.00
+153,2024-06-17,Shoe Rack,Home & Garden,North,2,38.00,76.00
+154,2024-06-18,Smartphone,Electronics,South,2,800.00,1600.00
+155,2024-06-19,Undershirt,Clothing,East,8,10.00,80.00
+156,2024-06-20,Doorstop,Home & Garden,West,6,8.00,48.00
+157,2024-06-21,Speaker,Electronics,North,2,180.00,360.00
+158,2024-06-22,Pullover,Clothing,South,3,58.00,174.00
+159,2024-06-23,Console Table,Home & Garden,East,1,200.00,200.00
+160,2024-06-24,Router,Electronics,West,2,90.00,180.00
+161,2024-06-25,Peacoat,Clothing,North,2,115.00,230.00
+162,2024-06-26,Planter,Home & Garden,South,4,22.00,88.00
+163,2024-06-27,Monitor,Electronics,East,2,350.00,700.00
+164,2024-06-28,Henley,Clothing,West,5,32.00,160.00
+165,2024-06-29,Filing Cabinet,Home & Garden,North,1,180.00,180.00
+166,2024-06-30,Headphones,Electronics,South,3,150.00,450.00
+167,2024-07-01,Flannel,Clothing,East,4,45.00,180.00
+168,2024-07-02,Armchair,Home & Garden,West,1,380.00,380.00
+169,2024-07-03,Tablet,Electronics,North,2,500.00,1000.00
+170,2024-07-04,Cargo Pants,Clothing,South,3,52.00,156.00
+171,2024-07-05,Bar Stool,Home & Garden,East,3,95.00,285.00
+172,2024-07-06,Camera,Electronics,West,1,600.00,600.00
+173,2024-07-07,Denim Jacket,Clothing,North,2,78.00,156.00
+174,2024-07-08,Area Rug,Home & Garden,South,1,250.00,250.00
+175,2024-07-09,Smart Watch,Electronics,East,2,300.00,600.00
+176,2024-07-10,Chinos,Clothing,West,4,48.00,192.00
+177,2024-07-11,Coat Stand,Home & Garden,North,2,55.00,110.00
+178,2024-07-12,Printer,Electronics,South,1,250.00,250.00
+179,2024-07-13,Track Jacket,Clothing,East,3,62.00,186.00
+180,2024-07-14,Foot Stool,Home & Garden,West,2,42.00,84.00
+181,2024-07-15,Laptop,Electronics,North,1,1200.00,1200.00
+182,2024-07-16,Board Shorts,Clothing,South,4,35.00,140.00
+183,2024-07-17,Garden Bench,Home & Garden,East,1,180.00,180.00
+184,2024-07-18,Smartphone,Electronics,West,2,800.00,1600.00
+185,2024-07-19,Bomber Jacket,Clothing,North,2,88.00,176.00
+186,2024-07-20,Magazine Rack,Home & Garden,South,3,28.00,84.00
+187,2024-07-21,Keyboard,Electronics,East,3,80.00,240.00
+188,2024-07-22,Polo,Clothing,West,5,42.00,210.00
+189,2024-07-23,Accent Chair,Home & Garden,North,1,320.00,320.00
+190,2024-07-24,Mouse,Electronics,South,4,30.00,120.00
+191,2024-07-25,Puffer Vest,Clothing,East,3,58.00,174.00
+192,2024-07-26,Credenza,Home & Garden,West,1,480.00,480.00
+193,2024-07-27,Hard Drive,Electronics,North,3,100.00,300.00
+194,2024-07-28,Fleece,Clothing,South,4,52.00,208.00
+195,2024-07-29,Footrest,Home & Garden,East,2,48.00,96.00
+196,2024-07-30,Speaker,Electronics,West,2,180.00,360.00
+197,2024-07-31,Sweatpants,Clothing,North,5,38.00,190.00
+198,2024-08-01,Loveseat,Home & Garden,South,1,620.00,620.00
+199,2024-08-02,Monitor,Electronics,East,1,350.00,350.00
+200,2024-08-03,Jersey,Clothing,West,4,32.00,128.00
+201,2024-08-04,End Table,Home & Garden,North,2,75.00,150.00
+202,2024-08-05,Headphones,Electronics,South,3,150.00,450.00
+203,2024-08-06,Tank,Clothing,East,6,18.00,108.00
+204,2024-08-07,Barstool,Home & Garden,West,2,85.00,170.00
+205,2024-08-08,Tablet,Electronics,North,1,500.00,500.00
+206,2024-08-09,Crewneck,Clothing,South,4,45.00,180.00
+207,2024-08-10,Futon,Home & Garden,East,1,350.00,350.00
+208,2024-08-11,Webcam,Electronics,West,3,75.00,225.00
+209,2024-08-12,Thermal,Clothing,North,5,28.00,140.00
+210,2024-08-13,Bean Bag,Home & Garden,South,2,65.00,130.00
+211,2024-08-14,Power Bank,Electronics,East,5,35.00,175.00
+212,2024-08-15,Anorak,Clothing,West,2,72.00,144.00
+213,2024-08-16,Chaise,Home & Garden,North,1,420.00,420.00
+214,2024-08-17,USB Cable,Electronics,South,10,8.00,80.00
+215,2024-08-18,Chambray,Clothing,East,3,48.00,144.00
+216,2024-08-19,Pouf,Home & Garden,West,2,58.00,116.00
+217,2024-08-20,Router,Electronics,North,2,90.00,180.00
+218,2024-08-21,Gilet,Clothing,South,3,52.00,156.00
+219,2024-08-22,Bookcase,Home & Garden,East,1,220.00,220.00
+220,2024-08-23,Flash Drive,Electronics,West,8,12.00,96.00
+221,2024-08-24,Mackintosh,Clothing,North,2,95.00,190.00
+222,2024-08-25,Settee,Home & Garden,South,1,480.00,480.00
+223,2024-08-26,Game Console,Electronics,East,1,400.00,400.00
+224,2024-08-27,Dickey,Clothing,West,5,15.00,75.00
+225,2024-08-28,Vanity,Home & Garden,North,1,320.00,320.00
+226,2024-08-29,Smart Watch,Electronics,South,2,300.00,600.00
+227,2024-08-30,Caftan,Clothing,East,2,62.00,124.00
+228,2024-08-31,Murphy Bed,Home & Garden,West,1,850.00,850.00
+229,2024-09-01,Laptop,Electronics,North,2,1200.00,2400.00
+230,2024-09-02,Capris,Clothing,South,4,38.00,152.00
+231,2024-09-03,Secretary Desk,Home & Garden,East,1,380.00,380.00
+232,2024-09-04,Smartphone,Electronics,West,1,800.00,800.00
+233,2024-09-05,Culottes,Clothing,North,3,42.00,126.00
+234,2024-09-06,Pantry Cabinet,Home & Garden,South,1,280.00,280.00
+235,2024-09-07,Camera,Electronics,East,1,600.00,600.00
+236,2024-09-08,Smock,Clothing,West,4,28.00,112.00
+237,2024-09-09,Wardrobe,Home & Garden,North,1,520.00,520.00
+238,2024-09-10,Printer,Electronics,South,1,250.00,250.00
+239,2024-09-11,Palazzo Pants,Clothing,East,3,45.00,135.00
+240,2024-09-12,Hutch,Home & Garden,West,1,420.00,420.00
+241,2024-09-13,Headphones,Electronics,North,3,150.00,450.00
+242,2024-09-14,Peplum Top,Clothing,South,4,35.00,140.00
+243,2024-09-15,Cedar Chest,Home & Garden,East,1,280.00,280.00
+244,2024-09-16,Monitor,Electronics,West,2,350.00,700.00
+245,2024-09-17,Peasant Blouse,Clothing,North,3,38.00,114.00
+246,2024-09-18,Daybed,Home & Garden,South,1,580.00,580.00
+247,2024-09-19,Tablet,Electronics,East,2,500.00,1000.00
+248,2024-09-20,Shift Dress,Clothing,West,3,52.00,156.00
+249,2024-09-21,Armoire,Home & Garden,North,1,680.00,680.00
+250,2024-09-22,Keyboard,Electronics,South,3,80.00,240.00
+251,2024-09-23,Sundress,Clothing,East,4,42.00,168.00
+252,2024-09-24,Credenza,Home & Garden,West,1,480.00,480.00
+253,2024-09-25,Mouse,Electronics,North,5,30.00,150.00
+254,2024-09-26,Maxi Dress,Clothing,South,3,58.00,174.00
+255,2024-09-27,Buffet,Home & Garden,East,1,520.00,520.00
+256,2024-09-28,Speaker,Electronics,West,2,180.00,360.00
+257,2024-09-29,Wrap Dress,Clothing,North,2,62.00,124.00
+258,2024-09-30,Sideboard,Home & Garden,South,1,450.00,450.00
+259,2024-10-01,SSD,Electronics,East,3,120.00,360.00
+260,2024-10-02,Halter Top,Clothing,West,5,25.00,125.00
+261,2024-10-03,China Cabinet,Home & Garden,North,1,720.00,720.00
+262,2024-10-04,Hard Drive,Electronics,South,3,100.00,300.00
+263,2024-10-05,Midi Skirt,Clothing,East,4,45.00,180.00
+264,2024-10-06,Console Table,Home & Garden,West,1,200.00,200.00
+265,2024-10-07,Webcam,Electronics,North,3,75.00,225.00
+266,2024-10-08,Pencil Skirt,Clothing,South,3,48.00,144.00
+267,2024-10-09,Etagere,Home & Garden,East,1,280.00,280.00
+268,2024-10-10,Power Bank,Electronics,West,5,35.00,175.00
+269,2024-10-11,A-Line Skirt,Clothing,North,4,42.00,168.00
+270,2024-10-12,Trestle Table,Home & Garden,South,1,380.00,380.00
+271,2024-10-13,Router,Electronics,East,2,90.00,180.00
+272,2024-10-14,Pleated Skirt,Clothing,West,3,52.00,156.00
+273,2024-10-15,Drop Leaf Table,Home & Garden,North,1,280.00,280.00
+274,2024-10-16,USB Cable,Electronics,South,10,8.00,80.00
+275,2024-10-17,Tutu,Clothing,East,5,32.00,160.00
+276,2024-10-18,Pedestal Table,Home & Garden,West,1,320.00,320.00
+277,2024-10-19,Flash Drive,Electronics,North,8,12.00,96.00
+278,2024-10-20,Circle Skirt,Clothing,South,4,38.00,152.00
+279,2024-10-21,Parsons Table,Home & Garden,East,1,280.00,280.00
+280,2024-10-22,Graphics Card,Electronics,West,1,450.00,450.00
+281,2024-10-23,Sarong,Clothing,North,4,28.00,112.00
+282,2024-10-24,Gateleg Table,Home & Garden,South,1,340.00,340.00
+283,2024-10-25,Smart Watch,Electronics,East,2,300.00,600.00
+284,2024-10-26,Pinafore,Clothing,West,3,42.00,126.00
+285,2024-10-27,Nesting Tables,Home & Garden,North,1,180.00,180.00
+286,2024-10-28,Game Console,Electronics,South,1,400.00,400.00
+287,2024-10-29,Dirndl,Clothing,East,2,68.00,136.00
+288,2024-10-30,Tea Cart,Home & Garden,West,1,220.00,220.00
+289,2024-10-31,Laptop,Electronics,North,1,1200.00,1200.00
+290,2024-11-01,Kaftan,Clothing,South,2,58.00,116.00
+291,2024-11-02,Sofa Table,Home & Garden,East,1,240.00,240.00
+292,2024-11-03,Smartphone,Electronics,West,2,800.00,1600.00
+293,2024-11-04,Muumuu,Clothing,North,3,35.00,105.00
+294,2024-11-05,Plant Stand,Home & Garden,South,2,45.00,90.00
+295,2024-11-06,Camera,Electronics,East,1,600.00,600.00
+296,2024-11-07,Negligee,Clothing,West,2,48.00,96.00
+297,2024-11-08,TV Tray,Home & Garden,North,4,25.00,100.00
+298,2024-11-09,Printer,Electronics,South,1,250.00,250.00
+299,2024-11-10,Crinoline,Clothing,East,3,42.00,126.00
+300,2024-11-11,Umbrella Stand,Home & Garden,West,2,32.00,64.00
+301,2024-11-12,Monitor,Electronics,North,2,350.00,700.00
+302,2024-11-13,Bustier,Clothing,South,4,38.00,152.00
+303,2024-11-14,Hall Tree,Home & Garden,East,1,180.00,180.00
+304,2024-11-15,Headphones,Electronics,West,3,150.00,450.00
+305,2024-11-16,Corset,Clothing,North,2,52.00,104.00
+306,2024-11-17,Quilt Rack,Home & Garden,South,1,85.00,85.00
+307,2024-11-18,Tablet,Electronics,East,2,500.00,1000.00
+308,2024-11-19,Chemise,Clothing,West,4,32.00,128.00
+309,2024-11-20,Blanket Chest,Home & Garden,North,1,280.00,280.00
+310,2024-11-21,Keyboard,Electronics,South,3,80.00,240.00
+311,2024-11-22,Peignoir,Clothing,East,2,58.00,116.00
+312,2024-11-23,Hope Chest,Home & Garden,West,1,320.00,320.00
+313,2024-11-24,Mouse,Electronics,North,5,30.00,150.00
+314,2024-11-25,Camisole,Clothing,South,6,18.00,108.00
+315,2024-11-26,Trunk,Home & Garden,East,1,180.00,180.00
+316,2024-11-27,Speaker,Electronics,West,2,180.00,360.00
+317,2024-11-28,Teddy,Clothing,North,4,35.00,140.00
+318,2024-11-29,Ottoman,Home & Garden,South,2,120.00,240.00
+319,2024-11-30,SSD,Electronics,East,3,120.00,360.00
+320,2024-12-01,Babydoll,Clothing,West,3,42.00,126.00
+321,2024-12-02,Accent Table,Home & Garden,North,1,95.00,95.00
+322,2024-12-03,Webcam,Electronics,South,3,75.00,225.00
+323,2024-12-04,Slip,Clothing,East,5,25.00,125.00
+324,2024-12-05,Plant Shelf,Home & Garden,West,2,48.00,96.00
+325,2024-12-06,Power Bank,Electronics,North,5,35.00,175.00
+326,2024-12-07,Garter Belt,Clothing,South,4,22.00,88.00
+327,2024-12-08,Telephone Table,Home & Garden,East,1,95.00,95.00
+328,2024-12-09,Router,Electronics,West,2,90.00,180.00
+329,2024-12-10,Robe,Clothing,North,3,62.00,186.00
+330,2024-12-11,Curio Cabinet,Home & Garden,South,1,380.00,380.00
+331,2024-12-12,Hard Drive,Electronics,East,3,100.00,300.00
+332,2024-12-13,Duster,Clothing,West,4,48.00,192.00
+333,2024-12-14,Highboy,Home & Garden,North,1,420.00,420.00
+334,2024-12-15,USB Cable,Electronics,South,10,8.00,80.00
+335,2024-12-16,Housecoat,Clothing,East,3,45.00,135.00
+336,2024-12-17,Lowboy,Home & Garden,West,1,320.00,320.00
+337,2024-12-18,Flash Drive,Electronics,North,8,12.00,96.00
+338,2024-12-19,Nightgown,Clothing,South,4,38.00,152.00
+339,2024-12-20,Chifforobe,Home & Garden,East,1,480.00,480.00
+340,2024-12-21,Graphics Card,Electronics,West,1,450.00,450.00
+341,2024-12-22,Pajama Set,Clothing,North,3,52.00,156.00
+342,2024-12-23,Tallboy,Home & Garden,South,1,380.00,380.00
+343,2024-12-24,Smart Watch,Electronics,East,2,300.00,600.00
+344,2024-12-25,Sleep Shirt,Clothing,West,4,28.00,112.00
+345,2024-12-26,Linen Chest,Home & Garden,North,1,280.00,280.00
+346,2024-12-27,Game Console,Electronics,South,1,400.00,400.00
+347,2024-12-28,Sleep Shorts,Clothing,East,5,18.00,90.00
+348,2024-12-29,Baker's Rack,Home & Garden,West,1,220.00,220.00
+349,2024-12-30,Laptop,Electronics,North,1,1200.00,1200.00
+350,2024-12-31,Sleep Mask,Clothing,South,10,8.00,80.00

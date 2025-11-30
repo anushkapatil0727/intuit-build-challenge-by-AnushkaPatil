@@ -1,0 +1,22 @@
+# === Core Requirements ===
+# Python's standard library provides threading, queue, csv, itertools, functools
+# so no installation needed for those.
+
+# === Testing ===
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# === Code Quality (Optional but Recommended for Build Challenge) ===
+flake8>=6.1.0
+black>=23.9.0
+isort>=5.12.0
+
+# === Data Handling (Optional Enhancements for Assignment 2) ===
+pandas>=2.0.0
+
+# === CLI / UX Enhancements (Optional) ===
+rich>=13.6.0        # Pretty terminal output (tables, highlights)
+typer>=0.9.0         # For CLI apps if needed
+
+# === Thread Debugging Tools (Optional) ===
+pyinstrument>=4.6.0  # For profiling producer-consumer behavior
